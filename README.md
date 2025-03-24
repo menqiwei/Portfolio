@@ -1,6 +1,10 @@
 # 👨‍💻 Qiwei's Data Science Portfolio
 
-Welcome! This is a curated collection of my data science projects, highlighting my skills in analytics, machine learning, and educational data science. Each project focuses on solving real-world problems using data.
+This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
+
+Email: men.25@osu.edu
+LinkedIn: linkedin.com/in/qiwei-men-012a341a7
+
 
 ---
 
