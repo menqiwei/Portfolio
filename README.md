@@ -18,6 +18,8 @@ This project was developed as part of a teaching assignment to introduce student
 
 This project explores BMW used car prices through EDA and predictive modeling. Linear regression and random forest regression were used to estimate prices based on vehicle features, with model performance evaluated and compared.
 
+#
+
 
 ## Tools & Skills
 
