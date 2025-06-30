@@ -17,7 +17,7 @@ LinkedIn: linkedin.com/in/qiwei-men-012a341a7
       <img src="Images/Missing_Data_Cover.jpeg" alt="Missing Data Cover" width="100%">
     </td>
     <td>
-      <h3><a href="https://https://github.com/menqiwei/Missing-Data-Imputation-Tutorial">Missing Data Analysis Tutorial</a></h3>
+      <h3><a href="https://github.com/menqiwei/Missing-Data-Imputation-Tutorial">Missing Data Analysis Tutorial</a></h3>
       <p>
         Created for a teaching assignment, this project introduces key concepts of missing data, including types of missingness, visualization, and imputation methods such as mean, k-NN, and multiple imputation.
       </p>
