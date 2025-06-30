@@ -26,7 +26,7 @@ This project involved building and comparing two classification models to predic
 
 #
 
-<img align="left" width="250" style="height:auto;" src="https://github.com/menqiwei/Portfolio/blob/main/Images/world_map.jpg"> **[Global Dynamics: Population & Economy](https://github.com/menqiwei/Gapminder-Visualization)**
+<img align="left" width="250" height="150" src="https://github.com/menqiwei/Portfolio/blob/main/Images/world_map2.jpg"> **[Global Dynamics: Population & Economy](https://github.com/menqiwei/Gapminder-Visualization)**
 
 This project uses animated visualizations to explore global trends in key socio-economic indicators over time, including population, GDP, GDP per capita, and life expectancy. Built with the Gapminder dataset, it reveals how countries have evolved across multiple dimensions of development.
 
