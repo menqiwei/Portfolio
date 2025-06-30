@@ -16,7 +16,7 @@ This project was developed as part of a teaching assignment to introduce student
 
 <img align="left" width="250" height="150" src="https://github.com/menqiwei/Portfolio/blob/main/Images/car-price-prediction.png"> **[Used Car Price Prediction Using Machine Learning](https://github.com/menqiwei/BMW-Used-Car-Price-Prediction)**
 
-BMW is one of the best-selling premium brands in the world. In this project, I conducted an exploratory data analysis on the BMW used car sale dataset, then built machine learning models to predict the price of used cars with multiple variables. I also evaluated and compared the performance of these models.
+This project explores BMW used car prices through EDA and predictive modeling. Linear regression and random forest regression were used to estimate prices based on vehicle features, with model performance evaluated and compared.
 
 
 ## Tools & Skills
