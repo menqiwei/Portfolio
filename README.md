@@ -26,13 +26,13 @@ This project involved building and comparing two classification models to predic
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/menqiwei/Portfolio/blob/main/Images/world_map.jpg"> **[Global Dynamics: Population & Economy](https://github.com/menqiwei/Gapminder-Visualization)**
+<img align="left" width="250" style="height:auto;" src="https://github.com/menqiwei/Portfolio/blob/main/Images/world_map.jpg"> **[Global Dynamics: Population & Economy](https://github.com/menqiwei/Gapminder-Visualization)**
 
 This project uses animated visualizations to explore global trends in key socio-economic indicators over time, including population, GDP, GDP per capita, and life expectancy. Built with the Gapminder dataset, it reveals how countries have evolved across multiple dimensions of development.
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/menqiwei/Portfolio/blob/main/Images/online_learning.jpg"> **[Global Dynamics: Population & Economy](https://github.com/menqiwei/Open-University-Lerrning-Performance-Prediction)**
+<img align="left" width="250" height="150" src="https://github.com/menqiwei/Portfolio/blob/main/Images/online_learning.jpg"> **[Open University Online Learning Performance Prediction](https://github.com/menqiwei/Open-University-Lerrning-Performance-Prediction)**
 
 This project analyzes student behavior in online learning environments using clickstream data from the Open University Learning Analytics Dataset (OULAD). Exploratory Factor Analysis (EFA) was applied to identify key behavioral factors that influence student performance. Linear Discriminant Analysis (LDA) was then used to classify students into performance categories.
 
