@@ -13,6 +13,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 This project was developed as part of a teaching assignment to introduce students to the fundamentals of missing data analysis. It covers key concepts such as types of missingness (MCAR, MAR, MNAR), techniques for visualizing missing data patterns, and common imputation methods. 
 
 #
+#
 
 <img align="left" width="250" height="150" src="https://github.com/menqiwei/Portfolio/blob/main/Images/News-2023-Used-Car-Prices1.jpg" style="vertical-align: top"> **[Used Car Price Prediction Using Machine Learning](https://github.com/menqiwei/BMW-Used-Car-Price-Prediction)**
 
