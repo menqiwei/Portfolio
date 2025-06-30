@@ -6,10 +6,15 @@ Email: men.25@osu.edu
 
 LinkedIn: linkedin.com/in/qiwei-men-012a341a7
 
-
 ---
 
 ## Featured Projects
+
+### [Missing Data Imputation Tutorial](https://github.com/menqiwei/Missing-Data-Imputation-Tutorial/tree/main)
+> This project was developed as part of a teaching assignment to introduce students to the fundamentals of missing data analysis. It covers key concepts such as types of missingness (MCAR, MAR, MNAR), techniques for visualizing missing data patterns, and common imputation methods. The project combines theoretical explanations with practical implementation in R to help learners understand how to handle incomplete datasets effectively.  
+**Tech:** R, pandas, mice, Amelia 
+**Skills:** R Coding, data visualization, missing data imputation  
+---
 
 ### [Clickstream Clustering in Teacher PD](https://github.com/yourusername/clickstream-clustering)
 > Clustered teacher learning behaviors from LMS logs using MHMM and visualized sequence patterns.  
