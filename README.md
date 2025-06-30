@@ -8,6 +8,56 @@ LinkedIn: linkedin.com/in/qiwei-men-012a341a7
 
 ---
 
+<h2>Featured Projects</h2>
+
+<!-- Missing Data Analysis Tutorial -->
+<table>
+  <tr>
+    <td width="40%">
+      <img src="Images/Missing_Data_Cover.jpeg" alt="Missing Data Cover" width="100%">
+    </td>
+    <td>
+      <h3><a href="https://https://github.com/menqiwei/Missing-Data-Imputation-Tutorial">Missing Data Analysis Tutorial</a></h3>
+      <p>
+        Created for a teaching assignment, this project introduces key concepts of missing data, including types of missingness, visualization, and imputation methods such as mean, k-NN, and multiple imputation.
+      </p>
+    </td>
+  </tr>
+</table>
+<br>
+
+<!-- Project 2 -->
+<table>
+  <tr>
+    <td width="40%">
+      <img src="images/clickstream-cover.jpeg" alt="Clickstream Analysis" width="100%">
+    </td>
+    <td>
+      <h3><a href="https://github.com/yourusername/clickstream-clustering">Clickstream Behavior Clustering</a></h3>
+      <p>
+        Analyzed LMS log data using sequence clustering and MHMM to identify distinct learning behavior patterns in online teacher professional development.
+      </p>
+    </td>
+  </tr>
+</table>
+<br>
+
+<!-- Project 3 -->
+<table>
+  <tr>
+    <td width="40%">
+      <img src="images/nlp-bias-cover.jpeg" alt="Media Bias NLP" width="100%">
+    </td>
+    <td>
+      <h3><a href="https://github.com/yourusername/media-bias-nlp">NLP for Media Bias Detection</a></h3>
+      <p>
+        Applied NLP techniques and transformer models to detect political bias in news articles. Included data scraping, preprocessing, topic modeling, and BERT classification.
+      </p>
+    </td>
+  </tr>
+</table>
+<br>
+
 ## Featured Projects
 
 ### [Missing Data Imputation Tutorial](https://github.com/menqiwei/Missing-Data-Imputation-Tutorial/tree/main)
