@@ -19,7 +19,7 @@ LinkedIn: linkedin.com/in/qiwei-men-012a341a7
     <td>
       <h3><a href="https://github.com/menqiwei/Missing-Data-Imputation-Tutorial">Missing Data Analysis Tutorial</a></h3>
       <p>
-        Created for a teaching assignment, this project introduces key concepts of missing data, including types of missingness, visualization, and imputation methods such as mean, k-NN, and multiple imputation.
+        This project was developed as part of a teaching assignment to introduce students to the fundamentals of missing data analysis. It covers key concepts such as types of missingness (MCAR, MAR, MNAR), techniques for visualizing missing data patterns, and common imputation methods. The project combines theoretical explanations with practical implementation in R to help learners understand how to handle incomplete datasets effectively.
       </p>
     </td>
   </tr>
