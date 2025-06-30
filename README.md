@@ -32,12 +32,12 @@ This project uses animated visualizations to explore global trends in key socio-
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/menqiwei/Portfolio/blob/main/Images/online_learning.jpg"> **[Open University Online Learning Performance Prediction](https://github.com/menqiwei/Open-University-Lerrning-Performance-Prediction)**
+<img align="left" width="250" src="https://github.com/menqiwei/Portfolio/blob/main/Images/online_learning.jpg"> **[Open University Online Learning Performance Prediction](https://github.com/menqiwei/Open-University-Lerrning-Performance-Prediction)**
 
 This project analyzes student behavior in online learning environments using clickstream data from the Open University Learning Analytics Dataset (OULAD). Exploratory Factor Analysis (EFA) was applied to identify key behavioral factors that influence student performance. Linear Discriminant Analysis (LDA) was then used to classify students into performance categories.
 
 #
-<img align="left" width="250" height="150" src="https://github.com/menqiwei/Portfolio/blob/main/Images/mainstream-media.png"> **[BiasTrack: Summarizing and Detecting Media Bias with LLMs](https://github.com/menqiwei/news-chatbot)**
+<img align="left" width="250"  src="https://github.com/menqiwei/Portfolio/blob/main/Images/mainstream-media.png"> **[BiasTrack: Summarizing and Detecting Media Bias with LLMs](https://github.com/menqiwei/news-chatbot)**
 
 This project uses ChatGPT-4o to summarize news articles and detect media bias across the political spectrum. It evaluates the summaries using BERT scores and information coverage, and analyzes how well bias is preserved or shifted during the summarization process.
 
