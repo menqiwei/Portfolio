@@ -8,7 +8,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
-<img align="left" width="250" height="150" src="images/clickstream-cover.jpeg"> **[Missing Data Analysis with R](https://github.com/menqiwei/Portfolio/blob/main/Images/Missing_Data_Cover.jpeg)**
+<img align="left" width="250" height="150" src="https://github.com/menqiwei/Portfolio/blob/main/Images/Missing_Data_Cover.jpeg"> **[Missing Data Analysis with R](https://github.com/menqiwei/Missing-Data-Imputation-Tutorial)**
 
 This project was developed as part of a teaching assignment to introduce students to the fundamentals of missing data analysis. It covers key concepts such as types of missingness (MCAR, MAR, MNAR), techniques for visualizing missing data patterns, and common imputation methods. 
 
