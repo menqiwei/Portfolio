@@ -14,7 +14,7 @@ This project was developed as part of a teaching assignment to introduce student
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/menqiwei/Portfolio/blob/main/Images/News-2023-Used-Car-Prices1.jpg" style="vertical-align: middle;"> **[Used Car Price Prediction Using Machine Learning](https://github.com/menqiwei/BMW-Used-Car-Price-Prediction)**
+<img align="left" width="250" height="150" src="https://github.com/menqiwei/Portfolio/blob/main/Images/News-2023-Used-Car-Prices1.jpg" style="vertical-align: top"> **[Used Car Price Prediction Using Machine Learning](https://github.com/menqiwei/BMW-Used-Car-Price-Prediction)**
 
 This project explores BMW used car prices through EDA and predictive modeling. Linear regression and random forest regression were used to estimate prices based on vehicle features, with model performance evaluated and compared.
 
