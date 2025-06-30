@@ -20,9 +20,9 @@ This project explores BMW used car prices through EDA and predictive modeling. L
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/menqiwei/Portfolio/blob/main/Images/Nationwide-Mutual-Insurance-Company-logo-2.png"> **[Used Car Price Prediction Using Machine Learning](https://github.com/menqiwei/Nationwide-Modeling-Exercise)**
+<img align="left" width="250" height="150" src="https://github.com/menqiwei/Portfolio/blob/main/Images/Nationwide-Mutual-Insurance-Company-logo-2.png"> **[Nationwide Predictive Analytics Project](https://github.com/menqiwei/Nationwide-Modeling-Exercise)**
 
-This project explores BMW used car prices through EDA and predictive modeling. Linear regression and random forest regression were used to estimate prices based on vehicle features, with model performance evaluated and compared.
+This project involved building and comparing two classification models to predict a binary outcome using a structured dataset. Key tasks included data preparation, feature engineering, and model evaluation based on AUC.
 
 
 ## Tools & Skills
