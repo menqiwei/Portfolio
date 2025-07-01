@@ -54,6 +54,8 @@ This project analyzes Citibike usage in New York City using spatial and temporal
 
 This project analyzes I-94 traffic data using changepoint detection methods (AMOC, PELT, BCP) to identify shifts in traffic volume patterns. It examines the influence of holidays, weekdays, and extreme weather, and compares detection performance and uncertainty across methods.
 
+#
+
 ## Tools & Skills
 
 - Python (pandas, scikit-learn, transformers)
