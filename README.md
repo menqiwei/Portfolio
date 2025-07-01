@@ -15,6 +15,12 @@ PhD candidate in Educational Studies & Applied Stats | Passionate about learning
 
 ## Projects
 
+<img align="left" width="250" height = "140" src="https://github.com/menqiwei/Portfolio/blob/main/Images/click_stream.png"> **[Click2Learn: Identifying Learning Patterns from Clickstream Data](https://github.com/menqiwei/Click2Learn-Identifying-Learning-Patterns-from-Clickstream-Data)**
+
+This project uses clickstream data from an online learning platform to identify distinct learning behavior patterns. Sequence clustering techniques, such as HMM clustering, are applied to model and group student interaction sequences, offering insights into engagement and self-regulated learning strategies.
+
+#
+
 <img align="left" width="250" height = "140" src="https://github.com/menqiwei/Portfolio/blob/main/Images/Missing%20Data%20in%20Clinical%20Trials.jpg"> **[Exploring Missingness in Pima Diabetes Data: Visualization & Imputation](https://github.com/menqiwei/Missing-Data-Imputation-Tutorial)**
 
 This project was developed as part of a teaching assignment to introduce students to the fundamentals of missing data analysis. It covers key concepts such as types of missingness (MCAR, MAR, MNAR), techniques for visualizing missing data patterns, and common imputation methods. 
