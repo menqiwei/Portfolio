@@ -38,12 +38,17 @@ This project analyzes student behavior in online learning environments using cli
 
 #
 
-<img align="left" width="250"  src="https://github.com/menqiwei/Portfolio/blob/main/Images/mainstream-media.png"> **[BiasTrack: Summarizing and Detecting Media Bias with LLMs](https://github.com/menqiwei/news-chatbot)**
+<img align="left" width="250" src="https://github.com/menqiwei/Portfolio/blob/main/Images/mainstream-media.png"> **[BiasTrack: Summarizing and Detecting Media Bias with LLMs](https://github.com/menqiwei/news-chatbot)**
 
 This project uses ChatGPT-4o to summarize news articles and detect media bias across the political spectrum. It evaluates the summaries using BERT scores and information coverage, and analyzes how well bias is preserved or shifted during the summarization process.
 
 #
 
+<img align="left" width="250" src="https://github.com/menqiwei/Portfolio/blob/main/Images/NYC_map.png"> **[RideMap: NYC Citibike Insights](https://github.com/menqiwei/Citibike-Usage-Visualization-in-New-York-City)**
+
+This project analyzes Citibike usage in New York City using spatial and temporal visualizations. Tools like Folium, Plotly, and Flourish were used to explore trip patterns, station demand, and inter-neighborhood flow, offering insights to optimize bike availability and rebalancing strategies.
+
+#
 
 
 ## Tools & Skills
