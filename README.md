@@ -8,7 +8,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
-<img align="left" width="250" height = "140" src="https://github.com/menqiwei/Portfolio/blob/main/Images/data_missing1.jpg"> **[Missing Data Solutions for Diabetes Prediction](https://github.com/menqiwei/Missing-Data-Imputation-Tutorial)**
+<img align="left" width="250" height = "140" src="https://github.com/menqiwei/Portfolio/blob/main/Images/data_missing1.jpg"> **[Exploring Missingness in Pima Diabetes Data: Visualization & Imputation](https://github.com/menqiwei/Missing-Data-Imputation-Tutorial)**
 
 This project was developed as part of a teaching assignment to introduce students to the fundamentals of missing data analysis. It covers key concepts such as types of missingness (MCAR, MAR, MNAR), techniques for visualizing missing data patterns, and common imputation methods. 
 
