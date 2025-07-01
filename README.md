@@ -56,15 +56,6 @@ This project analyzes I-94 traffic data using changepoint detection methods (AMO
 
 #
 
-## Tools & Skills
-
-- Python (pandas, scikit-learn, transformers)
-- R (seqHMM, ggplot2)
-- SQL
-- Jupyter & R Notebooks
-- Streamlit / Tableau
-- ML, NLP, Clustering, SEM
-
 ---
 
 ## About Me
