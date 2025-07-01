@@ -9,7 +9,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 PhD candidate in Educational Studies & Applied Stats | Passionate about learning analytics and human performance data | Open to EdTech and data science roles
 
-[LinkedIn](https://www.linkedin.com/in/qiwei-men-012a341a7/) | [Website](https://github.com/menqiwei/Portfolio/tree/main)) | [Email](https://www.linkedin.com/in/qiwei-men-012a341a7/)
+[LinkedIn](https://www.linkedin.com/in/qiwei-men-012a341a7/) | [Website](https://github.com/menqiwei/Portfolio/tree/main) | [Email](https://www.linkedin.com/in/qiwei-men-012a341a7/)
 
 
 
