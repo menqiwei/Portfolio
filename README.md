@@ -15,7 +15,7 @@ PhD candidate in Educational Studies & Applied Stats | Passionate about learning
 
 ## Projects
 
-<img align="left" width="250" height = "140" src="https://github.com/menqiwei/Portfolio/blob/main/Images/click_stream.png"> **[Click2Learn: Identifying Learning Patterns from Clickstream Data](https://github.com/menqiwei/Click2Learn-Identifying-Learning-Patterns-from-Clickstream-Data)**
+<img align="left" width="250" height = "150" src="https://github.com/menqiwei/Portfolio/blob/main/Images/click_stream.png"> **[Click2Learn: Identifying Learning Patterns from Clickstream Data](https://github.com/menqiwei/Click2Learn-Identifying-Learning-Patterns-from-Clickstream-Data)**
 
 This project uses clickstream data from an online learning platform to identify distinct learning behavior patterns. Sequence clustering techniques, such as HMM clustering, are applied to model and group student interaction sequences, offering insights into engagement and self-regulated learning strategies.
 
