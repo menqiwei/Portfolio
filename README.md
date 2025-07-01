@@ -50,6 +50,9 @@ This project analyzes Citibike usage in New York City using spatial and temporal
 
 #
 
+<img align="left" width="250" src="https://github.com/menqiwei/Portfolio/blob/main/Images/traffic_volume.jpg"> **[TrafficShift: Changepoint Detection in Highway Volume Data](https://github.com/menqiwei/Changepoint-Detection-on-Traffic-Volume)**
+
+This project analyzes I-94 traffic data using changepoint detection methods (AMOC, PELT, BCP) to identify shifts in traffic volume patterns. It examines the influence of holidays, weekdays, and extreme weather, and compares detection performance and uncertainty across methods.
 
 ## Tools & Skills
 
